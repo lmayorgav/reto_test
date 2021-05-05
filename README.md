@@ -26,7 +26,8 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 <img src="1.png" alt="1" width="50%"/>
-![button](2.jpg)](https://mattermost.com)
+<img src="2.png" width="25"/>](www.google.com)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
