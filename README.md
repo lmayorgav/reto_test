@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-![Image](1.png){:height="36px" width="36px"}
+![Image](1.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
