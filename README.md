@@ -27,6 +27,7 @@ Syntax highlighted code block
 ```
 <img src="1.png" alt="1" width="50%"/>
 [<img src="2.png" width="50%"/>](www.google.com)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
