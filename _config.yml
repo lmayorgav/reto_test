@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Bienvenidos a Reto Ciudad Sostenible
 description: Contribuye a diseñar soluciones para tener una ciudad sana, segura y sostenible para todas y todos por muchos años mas.
-img[alt=1] { width: 200px; }
+img[alt=1] { width: 20px; }
