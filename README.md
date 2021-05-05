@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 ```
-<img src="1.jpg" alt="1" width="200"/>
+<img src="1.png" alt="1" width="50%"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
