@@ -1,3 +1,9 @@
+<style type="text/css">
+  img:nth-child(3){margin:0 auto;
+  width:15%;
+  background-color: black}
+</style>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](modulo_1.md) to maintain and preview the content for your website in Markdown files.
@@ -26,6 +32,7 @@ Syntax highlighted code block
 [Link](url) and 
 ```
 <img src="1.png" alt="1" width="50%"/>
+
 [<img src="2.png" width="50%"/>](www.google.com)
 
 
