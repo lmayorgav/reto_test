@@ -1,7 +1,8 @@
-<style type="text/css">
-  img:nth-child(3){margin:0 auto;
-  width:15%;
-  background-color: black}
+<style>
+  img {
+        max-width: 300px;
+        height: 150px;
+    }
 </style>
 
 ## Welcome to GitHub Pages
