@@ -29,7 +29,7 @@ Syntax highlighted code block
 [<img src="2.png" width="50%"/>](www.google.com)
 
 
-[![Foo](3.png)](http://google.com.au/)
+[![Error](3.png "hola")](http://google.com.au/)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
